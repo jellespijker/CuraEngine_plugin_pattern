@@ -1,0 +1,16 @@
+{
+  "author": {
+    "author_id": "ultimaker",
+    "display_name": "UltiMaker",
+    "email": "plugins@ultimaker.com",
+    "website": "https://github.com/jellespijker/CuraEngine_plugin_pattern"
+  },
+  "description": "CuraEngine skin and infill pattern generation plugin",
+  "display_name": "CuraEnginePattern",
+  "package_id": "CuraEnginePattern",
+  "package_type": "plugin",
+  "package_version": "0.1.0",
+  "sdk_version": 8,
+  "sdk_version_semver": "8.5.0",
+  "website": "https://github.com/conan-io/conan-center-index"
+}

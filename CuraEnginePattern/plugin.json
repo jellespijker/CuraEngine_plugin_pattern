@@ -1,0 +1,9 @@
+{
+  "name": "CuraEnginePattern",
+  "author": "UltiMaker",
+  "version": "0.1.0",
+  "description": "CuraEngine skin and infill pattern generation plugin",
+  "api": "8",
+  "supported_sdk_versions": [ "8.5.0"],
+  "i18n-catalog": "cura"
+}
